@@ -4,5 +4,5 @@
 
 ## How to
 + docker build -t "myip" .
-+ docker run myip
-+ docker run myip -i
++ docker --rm run myip
++ docker --rm run myip -i
